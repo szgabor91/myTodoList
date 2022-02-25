@@ -2,6 +2,12 @@
 
 @import '~normalize.css';
 
-/* body {
-    padding: 2rem;
-} */
+body {
+    background-color: #242526;
+    /* background-color: #25274D; */
+    /* background-color: #464866; */
+}
+
+.p-menubar.p-component {
+    background-color: #242526 !important;
+}
