@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { OnInit } from '@angular/core';
 import { PrimeNGConfig } from 'primeng/api';
 import { ButtonModule } from 'primeng/button';
+import { MenuItem } from 'primeng/api';
 
 // @Component({
 //   selector: 'app-root',

@@ -3,6 +3,8 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
 
+// PrimeNG
+import { MenubarModule } from 'primeng/menubar';
 import { ButtonModule } from 'primeng/button';
 
 
@@ -12,6 +14,7 @@ import { ButtonModule } from 'primeng/button';
   ],
   imports: [
     BrowserModule,
+    MenubarModule,
     ButtonModule
   ],
   providers: [],
